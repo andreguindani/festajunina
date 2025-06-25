@@ -31,7 +31,7 @@ export const comidas = [
       'Corante alimentício vermelho',
       'Palito de madeira',
     ],
-    imagem: require('../../assets/comidas/maçã-amor.jpg'),
+    imagem: require('../../assets/comidas/maca-amor.jpg'),
   },
   {
     id: '4',
@@ -67,7 +67,7 @@ export const comidas = [
         'Chocolate Granulado',
         'Leite Condensado'
     ],
-    imagem: require('../../assets/comidas/brigadeiuro.jpg'),
+    imagem: require('../../assets/comidas/brigadeiro.jpg'),
   },
   {
     id: '7',
