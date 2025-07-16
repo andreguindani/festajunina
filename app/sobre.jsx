@@ -1,9 +1,9 @@
 import React from 'react';
-import { ScrollView, View, Text, StyleSheet, Button } from 'react-native';
+import { View, Text, StyleSheet, Button } from 'react-native';
 
 export default function Sobre() {
   return (
-    <ScrollView contentContainerStyle={styles.container}>
+    <View style={styles.container}>
       <Text style={styles.title}>🎉 Cardápio Junino Digital 🍽️</Text>
       <Text style={styles.paragraph}>
         Projeto de um Cardápio de Festa Junina desenvolvido por André Guindani e Gabriel Coelho.
@@ -21,7 +21,7 @@ export default function Sobre() {
       <Text style={styles.paragraph}>- André Guindani – Desenvolvimento 🛠️</Text>
       <Text style={styles.paragraph}>- Gabriel Coelho – Desenvolvimento 🛠️</Text>
 
-    </ScrollView>
+    </View>
   );
 }
 
