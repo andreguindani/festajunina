@@ -1,10 +1,21 @@
-🎉 Projeto Cardápio de Festa Junina 🎉
-Este é um projeto de um Cardápio Digital inspirado na festa junina do IFC, desenvolvido por André Guindani e Gabriel Coelho.
+# 🎉 **Cardápio Junino Digital** 🍽️
 
-🚀 Descrição
-O projeto tem como objetivo apresentar uma lista interativa de comidas típicas de festa junina. Os usuários podem navegar pelo cardápio, ver os detalhes de cada item e, claro, apreciar as delícias tradicionais de uma festa junina. 🍽️🌽🎶
+**Projeto de um Cardápio de Festa Junina** desenvolvido por **André Guindani** e **Gabriel Coelho**. 
 
-👥 Desenvolvedores
-André Guindani – Desenvolvimento
+Este projeto traz a alegria das festas juninas diretamente para o seu dispositivo, com um cardápio interativo de comidas típicas da temporada. 🍿🌽
 
-Gabriel Coelho – Desenvolvimento
+---
+
+## 🚀 **Descrição do Projeto**
+
+O **Cardápio Junino Digital** é um aplicativo que apresenta uma lista de deliciosas comidas típicas de festa junina. O usuário pode navegar entre os pratos, visualizar os ingredientes e detalhes, e se deliciar com a temática festiva.
+
+---
+
+## 👨‍💻 **Desenvolvedores**
+
+- **André Guindani** – Desenvolvimento 🛠️
+- **Gabriel Coelho** – Desenvolvimento 🛠️
+
+---
+
