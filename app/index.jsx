@@ -8,7 +8,7 @@ export default function Home() {
     <View style={styles.container}>
       <Text style={styles.emoji}>🎊🪅🎉</Text>
       <Text style={styles.title}>Bem-vindo a Festa Julina do IFC</Text>
-      <Text style={styles.subtitle}> Toque abaixo para ver nosso delicioso cardápio junino:
+      <Text style={styles.subtitle}> Toque abaixo para ver nosso delicioso cardápio julino:
       </Text>
 
       <TouchableOpacity style={styles.button} onPress={() => router.push('/cardapio')}>
