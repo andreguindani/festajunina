@@ -14,6 +14,9 @@ export default function Home() {
       <TouchableOpacity style={styles.button} onPress={() => router.push('/cardapio')}>
         <Text style={styles.buttonText}>Ver Cardápio 🍽️</Text>
       </TouchableOpacity>
+      <TouchableOpacity style={styles.buttonSobre} onPress={() => router.push('/sobre')}>
+        <Text style={styles.buttonText}>Sobre o Aplicativo</Text>
+      </TouchableOpacity>
     </View>
   );
 }
@@ -62,4 +65,16 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: 'bold',
   },
+  buttonSobre: {
+    backgroundColor: '#D84315',
+    paddingVertical: 10,
+    paddingHorizontal: 30,
+    borderRadius: 30,
+    elevation: 6,
+    shadowColor: '#D84315',
+    shadowOffset: { width: 0, height: 8 },
+    shadowOpacity: 0.4,
+    shadowRadius: 8,
+    marginTop: 15,
+  }
 });

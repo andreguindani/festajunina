@@ -25,6 +25,8 @@ export default function Layout() {
           if (route.name === 'index') return null; 
           else if (route.name === 'cardapio') title = '🍽️ Cardápio Junino';
           else if (route.name.startsWith('detalhe')) title = 'Detalhes da Comida';
+          else if (route.name === 'sobre') title = 'Sobre o Aplicativo';
+
 
           return <CustomHeader title={title} />;
         },
